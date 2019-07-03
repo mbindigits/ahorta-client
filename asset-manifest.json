@@ -1,15 +1,15 @@
 {
-  "main.css": "/material-sense/static/css/main.e83114d7.chunk.css",
-  "main.js": "/material-sense/static/js/main.25c793cd.chunk.js",
-  "main.js.map": "/material-sense/static/js/main.25c793cd.chunk.js.map",
-  "static/js/1.13738093.chunk.js": "/material-sense/static/js/1.13738093.chunk.js",
-  "static/js/1.13738093.chunk.js.map": "/material-sense/static/js/1.13738093.chunk.js.map",
-  "runtime~main.js": "/material-sense/static/js/runtime~main.09f4e86c.js",
-  "runtime~main.js.map": "/material-sense/static/js/runtime~main.09f4e86c.js.map",
-  "static/css/main.e83114d7.chunk.css.map": "/material-sense/static/css/main.e83114d7.chunk.css.map",
-  "static/media/shape.svg": "/material-sense/static/media/shape.52bb81c9.svg",
-  "static/media/ahorta-logo.png": "/material-sense/static/media/ahorta-logo.c6bd6688.png",
-  "index.html": "/material-sense/index.html",
-  "precache-manifest.1517dba54137b5fa0655e59068e211c0.js": "/material-sense/precache-manifest.1517dba54137b5fa0655e59068e211c0.js",
-  "service-worker.js": "/material-sense/service-worker.js"
+  "main.css": "/ahorta-client/static/css/main.e83114d7.chunk.css",
+  "main.js": "/ahorta-client/static/js/main.7429a5bd.chunk.js",
+  "main.js.map": "/ahorta-client/static/js/main.7429a5bd.chunk.js.map",
+  "static/js/1.13738093.chunk.js": "/ahorta-client/static/js/1.13738093.chunk.js",
+  "static/js/1.13738093.chunk.js.map": "/ahorta-client/static/js/1.13738093.chunk.js.map",
+  "runtime~main.js": "/ahorta-client/static/js/runtime~main.590edbc9.js",
+  "runtime~main.js.map": "/ahorta-client/static/js/runtime~main.590edbc9.js.map",
+  "static/css/main.e83114d7.chunk.css.map": "/ahorta-client/static/css/main.e83114d7.chunk.css.map",
+  "static/media/shape.svg": "/ahorta-client/static/media/shape.52bb81c9.svg",
+  "static/media/ahorta-logo.png": "/ahorta-client/static/media/ahorta-logo.c6bd6688.png",
+  "index.html": "/ahorta-client/index.html",
+  "precache-manifest.ed37a5ebb22efe801a9eb16070f725c0.js": "/ahorta-client/precache-manifest.ed37a5ebb22efe801a9eb16070f725c0.js",
+  "service-worker.js": "/ahorta-client/service-worker.js"
 }
